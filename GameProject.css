@@ -1,0 +1,42 @@
+body{
+  background-color: #b2d9ff;
+}
+
+details {
+  border: 1px solid #1b2333;
+  border-radius: 4px;
+  padding: 0.5em 0.5em 0;
+}
+
+details{
+  background-color: #1b2333;
+  font-family: Comic Sans MS, cursive;
+  color: white;
+}
+details[open] {
+  padding: 0.5em;
+  color: white;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #1b2333;
+  margin-bottom: 0.5em;
+  color: #57abff;
+}
+
+h3{
+  border: 5px solid #1b2333;
+  border-radius: 4px;
+  width: 300px;
+  background-color: #1b2333;
+  margin-bottom: 5px;
+  font-family: Comic Sans MS, cursive;
+  color : white
+}
+
+p{
+  background-color: #1b2333;
+  width: 60px;
+  font-family: Comic Sans MS, cursive;
+  color: coral;
+}

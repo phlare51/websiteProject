@@ -1,0 +1,53 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: lightyellow;
+}
+
+h1{
+  font-family: Gill Sans, sans-serif;
+  color : #070707
+}
+
+h2, p{
+  margin-bottom: 5px;
+  font-family: Gill Sans, sans-serif;
+  color : #070707
+}
+
+p{
+  font-family: Gill Sans, sans-serif;
+  width: 540px;
+}
+
+ul{
+  margin-top: 0;
+  font-family: Comic Sans MS, cursive;
+  color : #070707
+}
+
+a{
+  font-family: Comic Sans MS, cursive;
+  color: coral
+}
+
+summary {
+  font-weight: bold;
+  margin: -0.5em -0.5em 0;
+  padding: 0.5em;
+}
+
+h4{
+  margin-top: 50px;
+  width: 127px;
+  font-family: Comic Sans MS, cursive;
+}
+/*h5{
+  font-family: Comic Sans MS, cursive;
+}
+h6{
+  color: lightyellow;
+  font-family: Comic Sans MS, cursive;
+}*/
